@@ -1,4 +1,4 @@
-# Hi, welcome to my GitHub repo 👋
+# Hi, welcome to my GitHub Page 👋
 
 Here you can find a brief summary of myself. Will try to keep this regularly updated, as well as the pinned repositories so you can know what things I have beeb working on lately.
 
@@ -11,15 +11,15 @@ Thanks for spotting by. Kindly [donate to me](https://www.paypal.com/paypalme/gs
 
 :robot: Tech stuff:
 
-- Software Developer with a focus on cyber security. Worked as fullstack developer in the past, now mostly building tools, CLIs and automation for a security team.
+- Software Developer with a focus on cyber security. Working now as an AppSec Engineer, mostly building tools, CLIs and automation to build a secure SDLC. Occasional security researcher.
   
-- I code in Python mostly, trying to shift to Go.
+- I code in Python and Go, interchangeably. I try to pick the best tool for the trade.
   
 - Lover and contributor of open source software/communities.
   
 - Despite not writing front-end code anymore, I coded in ReactJS a long time ago - when React 16 came out?
 
-- Sometimes I write my own thoughts and experiences in [my website](https://gsilvapt.me) but I don't do it often - I should though! 
+- Sometimes I write my own thoughts and experiences in [my website](https://gsilvapt.me) but I don't do it as often as I should! 
 
 - If you want to reach out to me, you can do it on [Twitter](https://gsilvapt.me) or on [LinkedIn](https://www.linkedin.com/in/gsilvapt/).
 
