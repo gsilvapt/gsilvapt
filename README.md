@@ -40,4 +40,4 @@ Thanks for spotting by. Kindly [donate to me](https://www.paypal.com/paypalme/gs
 </tr>
 </table>
 
- <a href="https://mathstodon.xyz/@mlliarm" rel="me">Mathstodon</a>
+<a rel="me" href="https://infosec.exchange/@gsilvapt">Mastodon</a>
