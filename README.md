@@ -2,7 +2,7 @@
 
 Here you can find a brief summary of myself. Will try to keep this regularly updated, as well as the pinned repositories so you can know what things I have beeb working on lately.
 
-Thanks for spotting by. Kindly [donate to me](https://www.paypal.com/paypalme/gsilvapt) if you can and would like to.
+Thanks for stopping by. Kindly [donate to me](https://www.paypal.com/paypalme/gsilvapt) if you can and would like to.
 
 
 <table>
@@ -11,7 +11,9 @@ Thanks for spotting by. Kindly [donate to me](https://www.paypal.com/paypalme/gs
 
 :robot: Tech stuff:
 
-- Software Developer with a focus on cyber security. Working now as an AppSec Engineer, mostly building tools, CLIs and automation to build a secure SDLC. Occasional security researcher.
+- Software Developer with a focus on cyber security. Working now as an AppSec Engineer, mostly building tools, CLIs and automation to build a secure SDLC. 
+ 
+- Occasional security researcher.
   
 - I code in Python and Go, interchangeably. I try to pick the best tool for the trade.
   
@@ -34,7 +36,7 @@ Thanks for spotting by. Kindly [donate to me](https://www.paypal.com/paypalme/gs
 
 - When I'm not coding or learning how to break into things, I care for:
   - Sports and Exercise (Brazillian Jiu-jitsu 🥋, Running/walks 🏃‍♂️).
-  - Study (courses on a maryad of topics), reading books, listening to music, go to the beach (when the weatherman allows it).
+  - Study (courses on a myriad of topics), reading books, listening to music, go to the beach (when the weatherman allows it).
 
 </td>
 </tr>
