@@ -2,7 +2,7 @@
 
 Here you can find a brief summary of myself. Will try to keep this regularly updated, as well as the pinned repositories so you can know what things I have beeb working on lately.
 
-Thanks for stopping by. Kindly [donate to me](https://www.paypal.com/paypalme/gsilvapt) if you can and would like to.
+Thanks for stopping by. If you would like to, you can [buy me some coffee](https://ko-fi.com/gsilvapt).
 
 
 <table>
@@ -11,19 +11,17 @@ Thanks for stopping by. Kindly [donate to me](https://www.paypal.com/paypalme/gs
 
 :robot: Tech stuff:
 
-- Software Developer with a focus on cyber security. Working now as an AppSec Engineer, mostly building tools, CLIs and automation to build a secure SDLC. 
+- Software Developer with a focus on cyber security. Working now as an AppSec Engineer, mostly building tools, CLIs and automation to secure the software development lifecycle.
  
-- Occasional security researcher.
+- Occasional security researcher, eternal reverse engineering learner.
   
-- I code in Python and Go, interchangeably. I try to pick the best tool for the trade.
+- Python and Go _connoisseur_. I try to pick the best tool for the trade.
   
-- Lover and contributor of open source software/communities.
+- Passionate and contributor of open source software.
   
-- Despite not writing front-end code anymore, I coded in ReactJS a long time ago - when React 16 came out?
+- Sometimes I share my thoughts and experiences in [my website](https://gsilvapt.me) but I don't do it as often as I should! 
 
-- Sometimes I write my own thoughts and experiences in [my website](https://gsilvapt.me) but I don't do it as often as I should! 
-
-- If you want to reach out to me, you can do it on [Twitter](https://gsilvapt.me) or on [LinkedIn](https://www.linkedin.com/in/gsilvapt/).
+- If you want to reach out to me, you can do it on [Twitter](https://gsilvapt.me), or <a rel="me" href="https://infosec.exchange/@gsilvapt">Mastodon</a>, or on [LinkedIn](https://www.linkedin.com/in/gsilvapt/).
 
 </td>
 <td valign="top" width="50%">
@@ -34,12 +32,11 @@ Thanks for stopping by. Kindly [donate to me](https://www.paypal.com/paypalme/gs
  
 - I speak Portuguese and English.
 
-- When I'm not coding or learning how to break into things, I care for:
-  - Sports and Exercise (Brazillian Jiu-jitsu 🥋, Running/walks 🏃‍♂️).
-  - Study (courses on a myriad of topics), reading books, listening to music, go to the beach (when the weatherman allows it).
+- Other things I care for in life:
+  - Brazillian Jiu-jitsu 🥋
+  - Reading (about tech, security, software development and personal productivity).
+  - Music is a passion and used to be a side gig.
 
 </td>
 </tr>
 </table>
-
-<a rel="me" href="https://infosec.exchange/@gsilvapt">Mastodon</a>
